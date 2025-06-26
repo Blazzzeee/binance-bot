@@ -58,8 +58,8 @@ def get_args():
 
 if __name__ == "__main__":
     # TODO: Replace with your testnet credentials
-    API_KEY = "your_testnet_api_key"
-    API_SECRET = "your_testnet_api_secret"
+    API_KEY = ""
+    API_SECRET = ""
 
     args = get_args()
 
